@@ -1,0 +1,9 @@
+{
+  "name": "ngao-vulnerability-test",
+  "version": "1.0.0",
+  "description": "Test project for Ngao vulnerability detection",
+  "private": true,
+  "dependencies": {
+    "lodash": "4.17.20"
+  }
+}
